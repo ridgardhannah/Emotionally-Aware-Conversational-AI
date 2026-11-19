@@ -1,4 +1,10 @@
 # Emotionally Intelligent Conversational AI
+![Python](https://img.shields.io/badge/Python-3.10+-183253?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ResNet--18-187D83?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-183253?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Gaze_Tracking-187D83?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-183253?style=flat-square&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Llama_3.2_1B-187D83?style=flat-square)
 
 **Author:** Hannah Ridgard  
 **BSc (Hons) Software Engineering — Final Year Project**  
