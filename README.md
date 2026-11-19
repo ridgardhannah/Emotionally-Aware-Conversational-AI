@@ -1,4 +1,4 @@
-# Emotionally Intelligent Conversational AI
+# Emotionally Aware, Intelligent Conversational AI
 ![Python](https://img.shields.io/badge/Python-3.10+-183253?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ResNet--18-187D83?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-183253?style=flat-square&logo=opencv&logoColor=white)
