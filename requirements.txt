@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+torch
+torchvision
+Pillow
+pandas
+numpy
+mediapipe
+requests
+plotly
+tqdm
